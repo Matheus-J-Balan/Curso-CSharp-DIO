@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\bin\Debug\net6.0\POO_Dio.exe
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\bin\Debug\net6.0\POO_Dio.deps.json
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\bin\Debug\net6.0\POO_Dio.runtimeconfig.json
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\bin\Debug\net6.0\POO_Dio.dll
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\bin\Debug\net6.0\POO_Dio.pdb
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\obj\Debug\net6.0\POO_Dio.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\obj\Debug\net6.0\POO_Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\obj\Debug\net6.0\POO_Dio.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\obj\Debug\net6.0\POO_Dio.AssemblyInfo.cs
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\obj\Debug\net6.0\POO_Dio.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\obj\Debug\net6.0\POO_Dio.dll
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\obj\Debug\net6.0\refint\POO_Dio.dll
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\obj\Debug\net6.0\POO_Dio.pdb
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\obj\Debug\net6.0\POO_Dio.genruntimeconfig.cache
+C:\xampp\htdocs\Curso-CSharp-POO-DIO\POO_Dio\obj\Debug\net6.0\ref\POO_Dio.dll
