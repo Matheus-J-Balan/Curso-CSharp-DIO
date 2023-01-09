@@ -7,6 +7,7 @@ namespace POO_Dio
     {
         static void Main(string[] args)
         {
+            
             // Herança
 
             Aluno a1 = new Aluno();
@@ -21,8 +22,6 @@ namespace POO_Dio
             pr1.salario = 2500;
             pr1.Apresentar();
            
-
-
             // Encapsulamento
             
             // Valores Validos
